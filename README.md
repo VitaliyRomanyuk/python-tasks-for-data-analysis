@@ -1,1 +1,2 @@
 Посилання на набір даних, який використовувався для виконання завдання до теми "Введення у Pandas та NumPy": https://drive.google.com/file/d/15UfNkCRD4C5ttEhgvVhBYCcK429ohUvP/view?usp=drive_link
+Посилання на набір даних, який утворився в результаті виконання завдання до теми "Розширені методи обробки даних у Pandas":https://drive.google.com/file/d/1Epk-2irxk-PVJF1oivNOsOuzEoMF0CF-/view?usp=drive_link
